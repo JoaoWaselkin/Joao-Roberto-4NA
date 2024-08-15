@@ -4,19 +4,24 @@
 Este documento fornece informações detalhadas sobre o projeto, incluindo requisitos funcionais e não funcionais, dependências, análise de risco e comandos de inicialização do TypeScript. 
 
 ## Requisitos Funcionais
-Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferecer. Para este projeto, os seguintes requisitos foram identificados:
+#### Gerenciamento de Estoque
 
-1. **Autenticação de Usuário**
-   - O sistema deve permitir que os usuários se registrem e façam login.
+- Cadastro de novos livros com informações como título, autor, editora, preço e quantidade em estoque.
+
+- Atualização do estoque ao realizar vendas e receber novos livros.
+
+- Geração de relatórios de estoque para visualizar os livros disponíveis e suas quantidades.
+
+#### Vendas e Checkout
+- Adição de livros ao carrinho de compras.
+
+- Cálculo automático do valor total da compra com base nos preços individuais dos livros.
+
+- Processamento de pagamentos com opções como cartão de crédito e boleto.
    
-2. **Gerenciamento de Dados**
-   - O sistema deve permitir a criação, leitura, atualização e exclusão (CRUD) de dados.
+#### Gerenciamento de Clientes
 
-3. **Relatórios**
-   - O sistema deve gerar relatórios em formato PDF e CSV.
-
-4. **Notificações**
-   - O sistema deve enviar notificações por e-mail para os usuários em eventos importantes.
+- Cadastro de clientes com informações como nome, endereço, e-mail e histórico de compras.
 
 ## Requisitos Não Funcionais
 Os requisitos não funcionais descrevem as características de qualidade do sistema. Para este projeto, consideramos os seguintes requisitos:
