@@ -1,5 +1,7 @@
 # README
 
+Autor: Joãog
+
 ## Introdução
 Este documento fornece informações detalhadas sobre o projeto, incluindo requisitos funcionais e não funcionais, dependências, análise de risco e comandos de inicialização do TypeScript. 
 
@@ -87,3 +89,4 @@ Para iniciar o projeto utilizando TypeScript, siga os passos abaixo:
 
 ## Conclusão
 Este README fornece uma visão geral dos principais aspectos do projeto. Para mais informações, consulte a documentação interna ou entre em contato com a equipe de desenvolvimento.
+
