@@ -1,6 +1,6 @@
 # README
 
-Autor: Joãog
+Autor: João
 
 ## Introdução
 Este documento fornece informações detalhadas sobre o projeto, incluindo requisitos funcionais e não funcionais, dependências, análise de risco e comandos de inicialização do TypeScript. 
